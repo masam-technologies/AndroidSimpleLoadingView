@@ -1,0 +1,2 @@
+include ':app', ':androidsimpleloadingview'
+rootProject.name='AndroidSimpleLoadingViewDemo'
